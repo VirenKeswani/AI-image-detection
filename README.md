@@ -32,7 +32,7 @@ This project demonstrates image classification using deep learning techniques, s
 - Evaluated the trained model using test data to assess its performance metrics such as accuracy, precision and recall.
 
 
-### Results
+## Results
 
 - The trained model achieves competitive accuracy and performance metrics on the validation dataset.
-GradCAM visualization helps understand the model's attention areas and aids in model interpretation.
+- GradCAM visualization helps understand the model's attention areas and aids in model interpretation.
