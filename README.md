@@ -14,7 +14,7 @@ This project demonstrates image classification using deep learning techniques, s
 
 ## Usage
 
-### 1.Training the Model:
+### Training the Model:
 
 - Run the Jupyter Notebook or Python script for model training (train_model.ipynb or train_model.py).
 - Adjust hyperparameters, data augmentation techniques, and model architecture as needed.
